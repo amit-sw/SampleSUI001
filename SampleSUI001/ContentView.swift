@@ -5,6 +5,9 @@
 //  Created by Amit Gupta on 4/11/22.
 //
 
+/*
+ * Original ContentView. Not used
+ */
 import SwiftUI
 
 struct ContentView: View {
